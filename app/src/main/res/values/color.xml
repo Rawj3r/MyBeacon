@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="black">#ff000000</color>
+    <color name="white">#ffffffff</color>
+
+
+    <color name="hintColor">#ffb2b2b2</color>
+    <color name="textColor">#ff111111</color>
+    <color name="grayColor">#ffcdcdcd</color>
+    <color name="tabColor">#ff747679</color>
+    <color name="tabSelectColor">#ff162b48</color>
+    <color name="redBorderColor">#ffdc291e</color>
+    <color name="blueBorderColor">#ff162b48</color>
+    <color name="redButtonColor">#ffdc291e</color>
+    <color name="blueButtonColor">#ff5eb9b8</color>
+    <color name="unSelectColor">#ff747679</color>
+    <color name="lightGrayColor">#fff4f4f4</color>
+    <color name="redTextColor">#ffdc291e</color>
+    <color name="blueTextColor">#ff162b48</color>
+    <color name="grayTextColor">#ff808080</color>
+
+    <color name="colorPrimary">#ff162b48</color>
+    <color name="colorPrimaryDark">#ff162b48</color>
+
+    <color name="half_transparent">#80444444</color>
+    <color name="transparent">#00000000</color>
+</resources>

@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Multiply</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="summary">Summary</string>
+    <string name="detail">Detail</string>
+    <string name="messages">Messages</string>
+    <string name="contactus">Contact us</string>
+    <string name="visits">Visits:</string>
+    <string name="average_visit_duration">Average Visit Duration:</string>
+    <string name="current_visit_duration">Current Visit Duration:</string>
+    <string name="last_visit_date">Last Visit Date:</string>
+    <string name="na">N/A</string>
+    <string name="week">Week</string>
+    <string name="month">Month</string>
+    <string name="total">Total</string>
+    <string name="intime">InTime:</string>
+    <string name="outtime">OutTime:</string>
+    <string name="no_data">No Data.</string>
+    <string name="feedback">Feedback</string>
+    <string name="happy">Happy</string>
+    <string name="sad">Sad</string>
+    <string name="character_140">140 Characters</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="warning">Warning</string>
+    <string name="waiting">Please wait...</string>
+
+    <string name="alert_input_email">Please input email.</string>
+    <string name="alert_input_password">Please input password.</string>
+    <string name="alert_connect_failed">Connection failed.</string>
+    <string name="alert_input_feedback">Please input feedback.</string>
+
+    <string name="alert_welcome">Welcome to MyBeacon.</string>
+    <string name="alert_thank">Thank you for using MyBeacon. Please visit us again.</string>
+
+    <string name="contact_us"><![CDATA[<i>Getting in touch is easy - we would love to hear from you. Click the feedback button above or contact us directly at:</i>\n\n
+<br><br>
+info@equidais.com
+<br>
++27 (012) 003 3226
+<br><br>
+Thank you for taking part in the Multiply pilot. We look forward to hearing your feedback related to the app and your experience whilst using it.
+<br><br>
+<b>Using the app</b>
+<br><br>
+The app has been created as simply as possible to make the user experience as seamless as possible.
+<br><br>
+Once you install the app and open it for the first time you will be asked to grant it permission to use your location even when it is not open. This is so that the app can see the beacons when you enter, exit and move through the gym. <i>We will not track your location at any other time without your consent.</i> If you do not grant the app the permission it requires, it will not function correctly. If you accidentally tell the app it cannot use your location, you can change this in the app settings found in the settings section of your device.
+<br><br>
+That’s it. That’s all you have to do, the app will automatically start tracking your visits to the gym. You can view summaries of your data in the app, as well as individual visits. We will also be sending you messages from time to time regarding the pilot which will be available in the messages tab to keep you updated with all the latest news.]]></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
